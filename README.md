@@ -12,7 +12,8 @@ Mobile-first landing page clone using Flexbox (navbar), CSS Grid (features), `.c
 ## Screenshots
 
 ### Mobile View (375px)
-![Mobile](screenshots/mobile.png)
+<img width="1290" height="2796" alt="image" src="https://github.com/user-attachments/assets/694a8a27-7e51-40e8-87e2-ceb8b6d0c97d" />
+
 
 ### Desktop View (1440px)
 <img width="1899" height="986" alt="image" src="https://github.com/user-attachments/assets/0cadc628-269a-454a-a1f2-034a421acde1" />
